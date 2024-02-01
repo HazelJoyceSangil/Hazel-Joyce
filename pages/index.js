@@ -16,6 +16,9 @@ export default function Home() {
       I see myself in the next 5 years living in another country, working hard.
       </div>
       <div style={{ textAlign: 'center' }}>
+        I successfully update my blog
+      </div>
+      <div style={{ textAlign: 'center' }}>
         <strong>EXPECTATIONS IN THIS SUBJECT:</strong>
       <ul style={{ listStyleType: 'disc', textAlign: 'left', marginLeft: '2em' }}>
           <li>Hard </li>
